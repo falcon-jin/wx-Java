@@ -119,7 +119,7 @@
     <module>weixin-java-miniapp</module>
     <module>weixin-java-open</module>
     <module>weixin-java-qidian</module>
-    <module>wx-spring-boot-starters</module>
+    <module>wx-java-spring-boot-starters</module>
     <!--module>weixin-java-osgi</module-->
   </modules>
 
