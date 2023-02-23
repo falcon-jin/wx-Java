@@ -1,1 +1,2 @@
 com.binarywang.spring.starter.wxjava.cp.config.WxCpAutoConfiguration
+com.binarywang.spring.starter.wxjava.tp.config.WxCpTpAutoConfig
