@@ -9,7 +9,7 @@
   <packaging>pom</packaging>
   <artifactId>wx-java-spring-boot-starters</artifactId>
   <name>WxJava - Spring Boot Starters</name>
-  <description>WxJava 各个模块的 Spring Boot Starter</description>
+  <description>WxJava 各个模块的 Spring Boot Starter </description>
 
   <properties>
     <spring.boot.version>2.5.3</spring.boot.version>
