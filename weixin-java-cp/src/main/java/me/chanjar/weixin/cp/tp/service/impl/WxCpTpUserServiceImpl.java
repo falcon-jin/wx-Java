@@ -22,7 +22,9 @@ import static me.chanjar.weixin.cp.constant.WxCpApiPathConsts.User.*;
 
 /**
  * <pre>
- *  Created by jamie on 2020/7/22.
+ *
+ * @author jamie
+ * @date 2020/7/22
  * </pre>
  */
 @RequiredArgsConstructor

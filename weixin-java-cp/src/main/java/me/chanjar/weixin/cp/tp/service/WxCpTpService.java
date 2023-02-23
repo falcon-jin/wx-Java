@@ -548,6 +548,7 @@ public interface WxCpTpService {
   /**
    * 创建机构级jsApiTicket签名
    * 详情参见企业微信第三方应用开发文档：https://work.weixin.qq.com/api/doc/90001/90144/90539
+   * 该jsapi_ticket只能用于wx.config接口计算签名
    *
    * @param url        调用JS接口页面的完整URL
    * @param authCorpId the auth corp id
@@ -559,6 +560,7 @@ public interface WxCpTpService {
   /**
    * 创建应用级jsapiTicket签名
    * 详情参见企业微信第三方应用开发文档：https://work.weixin.qq.com/api/doc/90001/90144/90539
+   * 该jsapi_ticket只能用于wx.agentConfig接口计算签名
    *
    * @param url        调用JS接口页面的完整URL
    * @param authCorpId the auth corp id

@@ -19,6 +19,7 @@ import java.util.concurrent.locks.Lock;
 
 /**
  * 企业微信各种固定、授权配置的Redisson存储实现
+ * @author falcon
  */
 @Builder
 public class WxCpTpRedissonConfigImpl implements WxCpTpConfigStorage, Serializable {
